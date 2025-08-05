@@ -63,12 +63,3 @@ Criar uma aplicação funcional de conversão de créditos ESG (ambientais, soci
 ![6](https://user-images.githubusercontent.com/31005408/178036113-69538ac1-b5c2-4897-b1c7-2bee739455e3.png)
 ![7](https://user-images.githubusercontent.com/31005408/178036126-203ad1bd-0efb-4d2e-9d3b-76db3534fbba.png)
 ![8](https://user-images.githubusercontent.com/31005408/178036133-345177aa-3e03-4866-8843-721f7e266ea0.png)
-
-## Logos utilizadas e parceiros
-![GoodPay](https://user-images.githubusercontent.com/31005408/178036194-92076eb7-387e-46b7-9558-a6b3a2f4f7d0.png)
-![goodplayH](https://user-images.githubusercontent.com/31005408/178036201-2b494b4b-08d0-4cab-9f0a-4f6c460862bd.png)
-![IconeGP](https://user-images.githubusercontent.com/31005408/178036202-dce83b77-c7bf-4d90-81b5-eeb0102d42f1.png)
-![logo-dark](https://user-images.githubusercontent.com/31005408/178036205-a74de24b-4db5-43a4-b09a-12334f1dab2f.png)
-![logo-itlean](https://user-images.githubusercontent.com/31005408/178036208-2751aba3-2b2f-445a-b83d-4e560952ca86.png)
-![logoTexto](https://user-images.githubusercontent.com/31005408/178036209-ee67661d-8bf7-4fae-8d32-ecf39b70fcd7.png)
-![logo-tnt](https://user-images.githubusercontent.com/31005408/178036211-35d12b6a-1fd7-4245-9358-82738ac3ccd5.png)
